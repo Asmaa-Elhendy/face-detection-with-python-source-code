@@ -1,0 +1,8 @@
+.vs/
+.eggs/
+venv/
+*.pyc
+__pycache__/
+*.pyproj.user
+dist/
+*.egg-info/
